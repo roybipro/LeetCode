@@ -29,7 +29,7 @@ int main() {
     // Example usage
     // Input: height = [1,8,6,2,5,4,8,3,7]
     // Output: 49
-    vector<int> height = {1,8,6,2,5,4,8,3,7}; 
+    vector<int> height = {1,8,6,2,5,4,8,3,7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}; 
     int result = sol.maxArea(height);
     cout  << result << endl;
     return 0;
