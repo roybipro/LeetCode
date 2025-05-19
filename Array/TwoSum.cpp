@@ -17,6 +17,10 @@ int twoSumBB(int arr[], int n, int target)
     }
     return 0;
 }
+// sorted and bainary search
+ int sortedBinary(int arr[],int n,int target){
+    
+ }
 
 int main()
 {
