@@ -1,20 +1,14 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
+        int count = 0;
         int n = nums.size();
-        int drops = 0;
-
-        for (int i = 1; i < n; i++) {
-            if (nums[i] < nums[i - 1]) {
-                drops++;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] > nums[(i + 1) % n]) {
+                count++;
             }
+            if (count > 1) return false;
         }
-
-        // circular check
-        if (nums[n - 1] > nums[0]) {
-            drops++;
-        }
-
-        return drops <= 1;
+        return true;
     }
 };
