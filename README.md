@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/roybipro/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -29,6 +30,7 @@
 | [0075-sort-colors](https://github.com/roybipro/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/roybipro/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/roybipro/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roybipro/LeetCode/tree/master/0283-move-zeroes) |
@@ -49,6 +51,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/roybipro/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -72,4 +75,12 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
