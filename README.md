@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/roybipro/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/roybipro/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roybipro/LeetCode/tree/master/0229-majority-element-ii) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/roybipro/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
@@ -25,6 +27,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/roybipro/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/roybipro/LeetCode/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
