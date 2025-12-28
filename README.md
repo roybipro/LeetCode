@@ -22,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/roybipro/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/roybipro/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 ## String
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/roybipro/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/roybipro/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/roybipro/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roybipro/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roybipro/LeetCode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/roybipro/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
