@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/roybipro/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/roybipro/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/roybipro/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/roybipro/LeetCode/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/roybipro/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/roybipro/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/roybipro/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/roybipro/LeetCode/tree/master/0054-spiral-matrix) |
@@ -140,6 +142,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/roybipro/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/roybipro/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/roybipro/LeetCode/tree/master/0073-set-matrix-zeroes) |
