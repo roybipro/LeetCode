@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/roybipro/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/roybipro/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roybipro/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +65,7 @@
 | [0229-majority-element-ii](https://github.com/roybipro/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roybipro/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roybipro/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/roybipro/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
@@ -82,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/roybipro/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/roybipro/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roybipro/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@
 | [0217-contains-duplicate](https://github.com/roybipro/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/roybipro/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +114,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/roybipro/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/roybipro/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/roybipro/LeetCode/tree/master/0875-koko-eating-bananas) |
