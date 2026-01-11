@@ -69,6 +69,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roybipro/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/roybipro/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/roybipro/LeetCode/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/roybipro/LeetCode/tree/master/0054-spiral-matrix) |
+| [0495-teemo-attacking](https://github.com/roybipro/LeetCode/tree/master/0495-teemo-attacking) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roybipro/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
