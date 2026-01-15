@@ -77,6 +77,7 @@
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0661-image-smoother](https://github.com/roybipro/LeetCode/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/roybipro/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/roybipro/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/roybipro/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -169,6 +170,7 @@
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/roybipro/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/roybipro/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/roybipro/LeetCode/tree/master/0661-image-smoother) |
 ## Stack
 |  |
 | ------- |
