@@ -231,4 +231,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/roybipro/LeetCode/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/roybipro/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
