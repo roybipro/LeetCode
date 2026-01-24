@@ -81,6 +81,7 @@
 | [0496-next-greater-element-i](https://github.com/roybipro/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/roybipro/LeetCode/tree/master/0661-image-smoother) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0136-single-number](https://github.com/roybipro/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
+| [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0119-pascals-triangle-ii](https://github.com/roybipro/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roybipro/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/roybipro/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/roybipro/LeetCode/tree/master/0039-combination-sum) |
+| [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Counting Sort
 |  |
 | ------- |
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/roybipro/LeetCode/tree/master/0197-rising-temperature) |
+## Bitmask DP
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
