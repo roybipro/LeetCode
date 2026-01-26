@@ -38,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/roybipro/LeetCode/tree/master/0020-valid-parentheses) |
+| [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/roybipro/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Array
@@ -71,6 +72,7 @@
 | [0274-h-index](https://github.com/roybipro/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/roybipro/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/roybipro/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/roybipro/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roybipro/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -212,12 +214,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/roybipro/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/roybipro/LeetCode/tree/master/0101-symmetric-tree) |
+| [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/roybipro/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/roybipro/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/roybipro/LeetCode/tree/master/0101-symmetric-tree) |
+| [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/roybipro/LeetCode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -254,4 +258,16 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
