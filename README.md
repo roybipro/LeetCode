@@ -82,6 +82,7 @@
 | [0495-teemo-attacking](https://github.com/roybipro/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/roybipro/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/roybipro/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -121,6 +122,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/roybipro/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/roybipro/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/roybipro/LeetCode/tree/master/0506-relative-ranks) |
 ## Linked List
 |  |
 | ------- |
@@ -270,4 +272,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/roybipro/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
