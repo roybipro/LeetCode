@@ -89,6 +89,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/roybipro/LeetCode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/roybipro/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/roybipro/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/roybipro/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/roybipro/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/roybipro/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/roybipro/LeetCode/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/roybipro/LeetCode/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/roybipro/LeetCode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roybipro/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -201,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/roybipro/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/roybipro/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/roybipro/LeetCode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/roybipro/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Memoization
 |  |
