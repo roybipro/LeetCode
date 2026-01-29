@@ -38,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/roybipro/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/roybipro/LeetCode/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/roybipro/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
 | [1021-remove-outermost-parentheses](https://github.com/roybipro/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -107,6 +108,7 @@
 | [0189-rotate-array](https://github.com/roybipro/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/roybipro/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/roybipro/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/roybipro/LeetCode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roybipro/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -180,6 +182,7 @@
 | [0118-pascals-triangle](https://github.com/roybipro/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/roybipro/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roybipro/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/roybipro/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/roybipro/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Simulation
