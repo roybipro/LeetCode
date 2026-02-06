@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/roybipro/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/roybipro/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/roybipro/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/roybipro/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roybipro/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -43,6 +44,7 @@
 | [0020-valid-parentheses](https://github.com/roybipro/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/roybipro/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/roybipro/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
@@ -128,6 +130,7 @@
 | [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/roybipro/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/roybipro/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/roybipro/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/roybipro/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
