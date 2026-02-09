@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/roybipro/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roybipro/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roybipro/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/roybipro/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
@@ -48,6 +49,7 @@
 | [0242-valid-anagram](https://github.com/roybipro/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/roybipro/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/roybipro/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/roybipro/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
@@ -192,6 +194,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/roybipro/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roybipro/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
