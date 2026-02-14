@@ -39,6 +39,7 @@
 | [0189-rotate-array](https://github.com/roybipro/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/roybipro/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0389-find-the-difference](https://github.com/roybipro/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/roybipro/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/roybipro/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/roybipro/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -187,6 +189,7 @@
 | [0231-power-of-two](https://github.com/roybipro/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/roybipro/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Prefix Sum
 |  |
