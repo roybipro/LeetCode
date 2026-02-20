@@ -68,6 +68,7 @@
 | [0541-reverse-string-ii](https://github.com/roybipro/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/roybipro/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/roybipro/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/roybipro/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/roybipro/LeetCode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/roybipro/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Array
@@ -146,6 +147,7 @@
 | [0455-assign-cookies](https://github.com/roybipro/LeetCode/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/roybipro/LeetCode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/roybipro/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/roybipro/LeetCode/tree/master/0696-count-binary-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roybipro/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
