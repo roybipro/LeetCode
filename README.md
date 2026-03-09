@@ -66,6 +66,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/roybipro/LeetCode/tree/master/0409-longest-palindrome) |
 | [0481-magical-string](https://github.com/roybipro/LeetCode/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/roybipro/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/roybipro/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/roybipro/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
