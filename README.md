@@ -43,6 +43,7 @@
 | [0231-power-of-two](https://github.com/roybipro/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/roybipro/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/roybipro/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/roybipro/LeetCode/tree/master/0412-fizz-buzz) |
 | [0481-magical-string](https://github.com/roybipro/LeetCode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/roybipro/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/roybipro/LeetCode/tree/master/0500-keyboard-row) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/roybipro/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/roybipro/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/roybipro/LeetCode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/roybipro/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/roybipro/LeetCode/tree/master/0682-baseball-game) |
