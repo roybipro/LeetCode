@@ -122,6 +122,7 @@
 | [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/roybipro/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/roybipro/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/roybipro/LeetCode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/roybipro/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -171,6 +172,7 @@
 | [0414-third-maximum-number](https://github.com/roybipro/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/roybipro/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/roybipro/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/roybipro/LeetCode/tree/master/0561-array-partition) |
 ## Linked List
 |  |
 | ------- |
@@ -310,12 +312,14 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/roybipro/LeetCode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/roybipro/LeetCode/tree/master/0561-array-partition) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/roybipro/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/roybipro/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/roybipro/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/roybipro/LeetCode/tree/master/0561-array-partition) |
 ## Monotonic Stack
 |  |
 | ------- |
