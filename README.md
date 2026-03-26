@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/roybipro/LeetCode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/roybipro/LeetCode/tree/master/0412-fizz-buzz) |
+| [1017-convert-to-base-2](https://github.com/roybipro/LeetCode/tree/master/1017-convert-to-base-2) |
 ## String
 |  |
 | ------- |
