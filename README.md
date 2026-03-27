@@ -30,6 +30,7 @@
 | [0525-contiguous-array](https://github.com/roybipro/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roybipro/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/roybipro/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/roybipro/LeetCode/tree/master/0748-shortest-completing-word) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0657-robot-return-to-origin](https://github.com/roybipro/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/roybipro/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/roybipro/LeetCode/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/roybipro/LeetCode/tree/master/0748-shortest-completing-word) |
 | [1021-remove-outermost-parentheses](https://github.com/roybipro/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
@@ -129,6 +131,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/roybipro/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/roybipro/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/roybipro/LeetCode/tree/master/0704-binary-search) |
+| [0748-shortest-completing-word](https://github.com/roybipro/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/roybipro/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/roybipro/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/roybipro/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
