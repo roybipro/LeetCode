@@ -266,6 +266,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roybipro/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roybipro/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/roybipro/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/roybipro/LeetCode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/roybipro/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -279,6 +280,7 @@
 | [0100-same-tree](https://github.com/roybipro/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/roybipro/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/roybipro/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roybipro/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [0101-symmetric-tree](https://github.com/roybipro/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/roybipro/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/roybipro/LeetCode/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roybipro/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0399-evaluate-division](https://github.com/roybipro/LeetCode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/roybipro/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -303,6 +306,7 @@
 | [0100-same-tree](https://github.com/roybipro/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/roybipro/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/roybipro/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/roybipro/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
