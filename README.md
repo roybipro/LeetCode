@@ -39,6 +39,7 @@
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/roybipro/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/roybipro/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/roybipro/LeetCode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/roybipro/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/roybipro/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/roybipro/LeetCode/tree/master/0231-power-of-two) |
@@ -212,6 +213,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/roybipro/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/roybipro/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/roybipro/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/roybipro/LeetCode/tree/master/0231-power-of-two) |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/roybipro/LeetCode/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/roybipro/LeetCode/tree/master/0089-gray-code) |
 | [0526-beautiful-arrangement](https://github.com/roybipro/LeetCode/tree/master/0526-beautiful-arrangement) |
 ## Counting Sort
 |  |
