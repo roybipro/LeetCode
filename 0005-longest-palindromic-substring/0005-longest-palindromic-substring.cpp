@@ -4,7 +4,7 @@ public:
         int n = s.size();
         if (n <= 1) return s;
 
-        int start = 0, maxLen = 1;
+        int start = 0, maxLen = 0;
 
         auto expand = [&](int left, int right) {
             while (left >= 0 && right < n && s[left] == s[right]) {
