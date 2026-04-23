@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int i = s.size() - 1;
+        int i = s.size() - 1 ;
         int length = 0;
 
         // Skip trailing spaces
