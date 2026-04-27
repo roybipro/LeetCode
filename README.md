@@ -39,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/roybipro/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/roybipro/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/roybipro/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/roybipro/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/roybipro/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/roybipro/LeetCode/tree/master/0089-gray-code) |
@@ -94,6 +95,7 @@
 | [0053-maximum-subarray](https://github.com/roybipro/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/roybipro/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/roybipro/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/roybipro/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/roybipro/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/roybipro/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roybipro/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
