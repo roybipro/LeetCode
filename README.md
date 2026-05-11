@@ -52,6 +52,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/roybipro/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/roybipro/LeetCode/tree/master/0412-fizz-buzz) |
 | [1017-convert-to-base-2](https://github.com/roybipro/LeetCode/tree/master/1017-convert-to-base-2) |
+| [2427-number-of-common-factors](https://github.com/roybipro/LeetCode/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -392,4 +393,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/roybipro/LeetCode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/roybipro/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
