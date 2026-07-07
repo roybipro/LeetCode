@@ -98,6 +98,7 @@
 | [0014-longest-common-prefix](https://github.com/roybipro/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/roybipro/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/roybipro/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/roybipro/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/roybipro/LeetCode/tree/master/0048-rotate-image) |
@@ -214,6 +215,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/roybipro/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roybipro/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
