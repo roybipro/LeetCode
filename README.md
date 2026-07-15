@@ -96,6 +96,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/roybipro/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/roybipro/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/roybipro/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/roybipro/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/roybipro/LeetCode/tree/master/0031-next-permutation) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/roybipro/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/roybipro/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/roybipro/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roybipro/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/roybipro/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -183,6 +185,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/roybipro/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/roybipro/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/roybipro/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/roybipro/LeetCode/tree/master/0075-sort-colors) |
