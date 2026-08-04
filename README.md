@@ -425,4 +425,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roybipro/LeetCode/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/roybipro/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
